@@ -1,27 +1,27 @@
-# NgPokemonApp
+# Pokemon app
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
+This is my first Angular project.
+I followed an online French course given by Simon Dieny.
+(Thanks to him!)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# Presentation
 
-## Code scaffolding
+This app manages pokemons
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+here is the link of the model:
+https://react-pokemons-app-7c88d.web.app/login
 
-## Build
+In this application we can:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+    - visualize a list of pokemons
+    - search one specific pokemon
+    - click and see the details of the selected pokemon and
+    modify them.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Course link (Youtube / Udemy)
 
-## Running end-to-end tests
+https://www.udemy.com/course/angular-developper-tutoriel-application-typescript/learn/lecture/31562460?start=105#content
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+https://www.youtube.com/watch?v=DTIYVffhJuU&t=15350s
